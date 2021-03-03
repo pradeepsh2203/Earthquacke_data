@@ -1,4 +1,4 @@
-# Earthquacke_data
+# Earthquake_data
 In this project I have created a gui which shows the real time data of the earthquake around the world on a world map using USCD Unfolding maps library in java. The earthquake have been marked on the basis of there magnitude, as shown in the following project:
 <p align="center"><img src="https://github.com/pradeepsh2203/Earthquacke_data/blob/main/images/demo1.JPG" ></p>
 The gui also contain multiple event listener, like - <br>
